@@ -1,0 +1,17 @@
+{
+    "name": "marketo/silverstripe-default-members",
+    "description": "Default Members for SilverStripe",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "members", "default"],
+    "require": {
+        "silverstripe/framework": "3.*",
+        "composer/installers": "*"
+    },
+    "authors": [
+        {
+            "name": "Nathan J. Brauer",
+            "email": "nathan@marketera.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
