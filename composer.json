@@ -7,6 +7,10 @@
         "silverstripe/framework": "3.*",
         "composer/installers": "*"
     },
+    "support": {
+        "issues": "https://github.com/Marketo/SilverStripe-Default-Members/issues"
+    },
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Nathan J. Brauer",
