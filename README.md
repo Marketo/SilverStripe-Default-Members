@@ -10,6 +10,7 @@ Nathan J. Brauer <nathan@marketera.com>
 ## Requirements
 
 * SilverStripe 3
+* PHP 5.4+
 
 ## Setup
 
@@ -32,6 +33,9 @@ DefaultMembers:
         Email: another@example.com
         FirstName: Amazing
         Surname: Example
+  delete:
+    - mundane@example.com
+    - boring@example.com
 ```
 
 ## Composer Installation
